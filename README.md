@@ -21,7 +21,7 @@ All my life was based on tecnology, i like discover new things on all the web, a
 <br />
 
 
-### Recent Acitivies ✨
+### Recent Acitivies :dizzy:
 <center>
 <table>
   <tr>
