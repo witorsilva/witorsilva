@@ -19,3 +19,14 @@ All my life was based on tecnology, i like discover new things on all the web, a
 
 <br />
 <br />
+
+
+### Recent Acitivies ✨
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witorsilva&hide=html&layout=compact&theme=dracula" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=witorsilva&theme=dracula&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
