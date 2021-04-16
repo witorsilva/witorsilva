@@ -4,9 +4,7 @@
 
 
 :books: [Medium](https://medium.com/@witordev)
-
 :dart: [Twitter](https://twitter.com/witordev)
-
 :briefcase: [LinkedIn](https://www.linkedin.com/in/witorsilva/)
 
 ### Technology Stack 👨🏻‍💻
