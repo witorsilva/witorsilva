@@ -1,5 +1,14 @@
 ### Hello, I'm Witor Silva Oliveira or just Witor, I'm a Software Developer from Brazil!
 
+### Find me elsewhere :earth_americas:
+
+
+:books: [Medium](https://medium.com/@witordev)
+
+:dart: [Twitter](https://twitter.com/witordev)
+
+:briefcase: [LinkedIn](https://www.linkedin.com/in/witorsilva/)
+
 ### Technology Stack 👨🏻‍💻
 
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
