@@ -1,4 +1,4 @@
-### Hello, I'm Witor!
+### Hello, I'm Witor! 👋
 
 ### Find me elsewhere :earth_americas:
 
