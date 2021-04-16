@@ -3,8 +3,8 @@
 ### Find me elsewhere :earth_americas:
 
 
-:books: [Medium](https://medium.com/@witordev)
-:dart: [Twitter](https://twitter.com/witordev)
+:books: [Medium](https://medium.com/@witordev)<br>
+:dart: [Twitter](https://twitter.com/witordev)<br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/witorsilva/)
 
 ### Technology Stack 👨🏻‍💻
