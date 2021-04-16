@@ -1,4 +1,4 @@
-### Hello, I'm Witor Silva Oliveira or just Witor, I'm a Software Developer from Brazil!
+### Hello, I'm Witor!
 
 ### Find me elsewhere :earth_americas:
 
