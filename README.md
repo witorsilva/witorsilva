@@ -3,7 +3,7 @@
 ### Find me elsewhere :earth_americas:
 
 
-:books: [Medium](https://medium.com/@witordev)<br>
+:video_game: [Gamer Easy](https://gamereasy.com.br/)<br>
 :dart: [Twitter](https://twitter.com/witordev)<br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/witorsilva/)
 
