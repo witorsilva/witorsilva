@@ -3,7 +3,6 @@
 ### Find me elsewhere :earth_americas:
 
 
-:video_game: [Gamer Easy](https://gamereasy.com.br/)<br>
 :dart: [Twitter](https://twitter.com/witordev)<br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/witorsilva/)
 
